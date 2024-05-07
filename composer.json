@@ -1,0 +1,16 @@
+{
+    "name": "viet-dinh/simplest",
+    "description": "Simplest package",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Viet Dinh",
+            "email": "dinhquocvietpro@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "VietDinh\\Simplest\\": "src/"
+        }
+    }
+}
